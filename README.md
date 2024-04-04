@@ -7,16 +7,15 @@
 <body>
     <h2>PatternCheck</h2>
     <ul>
-        <li>Introducerea unui șablon și a două texte pentru verificare</li>
-        <li>Verificarea dacă textele se potrivesc cu șablonul utilizând expresii regulate</li>
-        <li>Interfață grafică prietenoasă și ușor de utilizat</li>
+        <li>Input of a pattern and two texts for verification</li>
+        <li>Verification of whether the texts match the pattern using regular expressions</li>
     </ul>
-    <h2>Instrucțiuni de utilizare:</h2>
+    <h2>Usage Instructions:</h2>
     <ol>
-        <li>Introduceți un șablon în primul câmp de introducere.</li>
-        <li>Introduceți primul text în al doilea câmp de introducere.</li>
-        <li>Introduceți al doilea text în zona de text.</li>
-        <li>Apăsați butonul "CHECK" pentru a verifica potrivirea textelor cu șablonul.</li>
+        <li>Enter a pattern in the first input field.</li>
+        <li>Enter the first text in the second input field.</li>
+        <li>Enter the second text in the text area.</li>
+        <li>Press the "CHECK" button to initiate the process of verifying the match of the texts with the specified pattern.</li>
     </ol>
 </body>
 </html>
