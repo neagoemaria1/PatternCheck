@@ -81,7 +81,7 @@ public class PatternCheck extends JFrame {
                 String text1 = text1Input.getText();
                 String text2 = text2Input.getText();
 
-                if (pattern.isEmpty() && text1.isEmpty() && text2.isEmpty()) {
+                if (pattern.isEmpty() ) {
                     resultLabel.setText("There is nothing to check.");
                     resultOutput.setText("");
                 } else {
